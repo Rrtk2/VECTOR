@@ -1,0 +1,15 @@
+# Privacy Policy
+
+## 1. Data Collection
+* **User Data:** V.E.C.T.O.R. // CITADEL does not collect, store, or profile data from general server members.
+* **Message Content:** The Service processes message content strictly in real-time to execute administrative workflows and authorized commands. Message text is never written to persistent logs, databases, or external storage.
+* **Metadata:** Minimal volatile Discord identifiers (such as User IDs) are checked against a local hardcoded allowlist solely to enforce access control.
+
+## 2. Data Storage and Retention
+No personal data, chat history, or server metrics are retained, tracking-pushed, or stored persistently. All operational data exists strictly within volatile memory (RAM) during runtime execution and is purged immediately upon task completion.
+
+## 3. Third-Party Sharing
+No data is ever shared, sold, or transmitted to third-party entities, external databases, or cloud analytics platforms.
+
+## 4. Contact & Inquiries
+For infrastructure or system-wide security queries regarding this private instance, contact the server administrator directly.
